@@ -6,5 +6,8 @@ SpaceSpectra is an innovative app designed to unlock the mysteries of the univer
 
 <img width="654" alt="Screenshot 2024-09-29 at 3 29 21 AM" src="https://github.com/user-attachments/assets/30e9dbf8-7ded-4a7f-a066-629efad76b84">
 
+<img width="655" alt="Screenshot 2024-09-29 at 3 31 44 AM" src="https://github.com/user-attachments/assets/c651fa4e-e501-4140-aca1-effa3b8f25df">
+
+
 
 
